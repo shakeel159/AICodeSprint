@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "FisherYatesShuffleAssignment/1.0.0": {
+        "dependencies": {
+          "Algorithms": "1.0.0"
+        },
+        "runtime": {
+          "FisherYatesShuffleAssignment.dll": {}
+        }
+      },
+      "Algorithms/1.0.0": {
+        "runtime": {
+          "Algorithms.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "FisherYatesShuffleAssignment/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Algorithms/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

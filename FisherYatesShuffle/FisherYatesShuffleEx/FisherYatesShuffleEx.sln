@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32922.545
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FisherYatesShuffleEx", "FisherYatesShuffleEx\FisherYatesShuffleEx.csproj", "{1FFA39F6-C72A-47F9-B9FB-57E73EBED4C1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Algorithms", "..\Algorithms\Algorithms.csproj", "{2A90A908-875B-4303-A9DD-B291D27891A6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1FFA39F6-C72A-47F9-B9FB-57E73EBED4C1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1FFA39F6-C72A-47F9-B9FB-57E73EBED4C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1FFA39F6-C72A-47F9-B9FB-57E73EBED4C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1FFA39F6-C72A-47F9-B9FB-57E73EBED4C1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2A90A908-875B-4303-A9DD-B291D27891A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A90A908-875B-4303-A9DD-B291D27891A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A90A908-875B-4303-A9DD-B291D27891A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A90A908-875B-4303-A9DD-B291D27891A6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CF355313-C011-4132-AADD-347ECE4DB59F}
+	EndGlobalSection
+EndGlobal

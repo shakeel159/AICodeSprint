@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Workspace\\src\\GitHub\\AICodePractice\\AICodeSprint\\AlgorthimsCode\\AlgorthimsCode\\AlgorthimsCode.csproj": {}
+    "C:\\Workspace\\src\\GitHub\\AlgorithmCodePractice\\Algorithms\\Algorithms.csproj": {}
   },
   "projects": {
-    "C:\\Workspace\\src\\GitHub\\AICodePractice\\AICodeSprint\\AlgorthimsCode\\AlgorthimsCode\\AlgorthimsCode.csproj": {
+    "C:\\Workspace\\src\\GitHub\\AlgorithmCodePractice\\Algorithms\\Algorithms.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Workspace\\src\\GitHub\\AICodePractice\\AICodeSprint\\AlgorthimsCode\\AlgorthimsCode\\AlgorthimsCode.csproj",
-        "projectName": "AlgorthimsCode",
-        "projectPath": "C:\\Workspace\\src\\GitHub\\AICodePractice\\AICodeSprint\\AlgorthimsCode\\AlgorthimsCode\\AlgorthimsCode.csproj",
+        "projectUniqueName": "C:\\Workspace\\src\\GitHub\\AlgorithmCodePractice\\Algorithms\\Algorithms.csproj",
+        "projectName": "Algorithms",
+        "projectPath": "C:\\Workspace\\src\\GitHub\\AlgorithmCodePractice\\Algorithms\\Algorithms.csproj",
         "packagesPath": "C:\\Users\\Jazib\\.nuget\\packages\\",
-        "outputPath": "C:\\Workspace\\src\\GitHub\\AICodePractice\\AICodeSprint\\AlgorthimsCode\\AlgorthimsCode\\obj\\",
+        "outputPath": "C:\\Workspace\\src\\GitHub\\AlgorithmCodePractice\\Algorithms\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
