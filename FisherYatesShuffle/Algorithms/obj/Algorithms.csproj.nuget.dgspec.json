@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Workspace\\src\\GitHub\\AlgorithmCodePractice\\Algorithms\\Algorithms.csproj": {}
+    "C:\\Workspace\\src\\GitHub\\AICodePractice\\AICodeSprint\\FisherYatesShuffle\\Algorithms\\Algorithms.csproj": {}
   },
   "projects": {
-    "C:\\Workspace\\src\\GitHub\\AlgorithmCodePractice\\Algorithms\\Algorithms.csproj": {
+    "C:\\Workspace\\src\\GitHub\\AICodePractice\\AICodeSprint\\FisherYatesShuffle\\Algorithms\\Algorithms.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Workspace\\src\\GitHub\\AlgorithmCodePractice\\Algorithms\\Algorithms.csproj",
+        "projectUniqueName": "C:\\Workspace\\src\\GitHub\\AICodePractice\\AICodeSprint\\FisherYatesShuffle\\Algorithms\\Algorithms.csproj",
         "projectName": "Algorithms",
-        "projectPath": "C:\\Workspace\\src\\GitHub\\AlgorithmCodePractice\\Algorithms\\Algorithms.csproj",
+        "projectPath": "C:\\Workspace\\src\\GitHub\\AICodePractice\\AICodeSprint\\FisherYatesShuffle\\Algorithms\\Algorithms.csproj",
         "packagesPath": "C:\\Users\\Jazib\\.nuget\\packages\\",
-        "outputPath": "C:\\Workspace\\src\\GitHub\\AlgorithmCodePractice\\Algorithms\\obj\\",
+        "outputPath": "C:\\Workspace\\src\\GitHub\\AICodePractice\\AICodeSprint\\FisherYatesShuffle\\Algorithms\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

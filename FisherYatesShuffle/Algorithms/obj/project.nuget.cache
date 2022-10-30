@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "0nPsuXjL3pkpYnzWD7PVTTiDc9DOoyX1rhzeOb6UGzavH78V/BIHJu0Rl6fJo2P/PUHrPELSbb4Z6lh6KBaCAA==",
+  "dgSpecHash": "sCYyiyRiSSaIB0x9YFQV0EdMjM0hCcKDoU7FsXmqKJ6WdxLy0MxZ88LYEuTWUtrIZYC9MwHY6IXZZdOvU63AQw==",
   "success": true,
-  "projectFilePath": "C:\\Workspace\\src\\GitHub\\AlgorithmCodePractice\\Algorithms\\Algorithms.csproj",
+  "projectFilePath": "C:\\Workspace\\src\\GitHub\\AICodePractice\\AICodeSprint\\FisherYatesShuffle\\Algorithms\\Algorithms.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -33,11 +33,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Workspace\\src\\GitHub\\AlgorithmCodePractice\\FisherYatesShuffleAssignment\\FisherYatesShuffleAssignment\\FisherYatesShuffleAssignment.csproj",
+      "projectUniqueName": "C:\\Workspace\\src\\GitHub\\AICodePractice\\AICodeSprint\\FisherYatesShuffle\\FisherYatesShuffleAssignment\\FisherYatesShuffleAssignment\\FisherYatesShuffleAssignment.csproj",
       "projectName": "FisherYatesShuffleAssignment",
-      "projectPath": "C:\\Workspace\\src\\GitHub\\AlgorithmCodePractice\\FisherYatesShuffleAssignment\\FisherYatesShuffleAssignment\\FisherYatesShuffleAssignment.csproj",
+      "projectPath": "C:\\Workspace\\src\\GitHub\\AICodePractice\\AICodeSprint\\FisherYatesShuffle\\FisherYatesShuffleAssignment\\FisherYatesShuffleAssignment\\FisherYatesShuffleAssignment.csproj",
       "packagesPath": "C:\\Users\\Jazib\\.nuget\\packages\\",
-      "outputPath": "C:\\Workspace\\src\\GitHub\\AlgorithmCodePractice\\FisherYatesShuffleAssignment\\FisherYatesShuffleAssignment\\obj\\",
+      "outputPath": "C:\\Workspace\\src\\GitHub\\AICodePractice\\AICodeSprint\\FisherYatesShuffle\\FisherYatesShuffleAssignment\\FisherYatesShuffleAssignment\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -58,8 +58,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Workspace\\src\\GitHub\\AlgorithmCodePractice\\Algorithms\\Algorithms.csproj": {
-              "projectPath": "C:\\Workspace\\src\\GitHub\\AlgorithmCodePractice\\Algorithms\\Algorithms.csproj"
+            "C:\\Workspace\\src\\GitHub\\AICodePractice\\AICodeSprint\\FisherYatesShuffle\\Algorithms\\Algorithms.csproj": {
+              "projectPath": "C:\\Workspace\\src\\GitHub\\AICodePractice\\AICodeSprint\\FisherYatesShuffle\\Algorithms\\Algorithms.csproj"
             }
           }
         }

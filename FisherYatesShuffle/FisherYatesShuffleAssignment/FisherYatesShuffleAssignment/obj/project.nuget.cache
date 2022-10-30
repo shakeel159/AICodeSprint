@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "FtTfHbwkF3nfTrnJJtPc6jiw+4Iur23SHZwOj2sQhN0+dBk39WiYZTEv0uVsJgZ+Z3aEJ5OwE3ndIrbmMtYe7w==",
+  "dgSpecHash": "PZqaci2MIIPatd6+1ogEORnPjUVREy5OMqJ3RvaACJeDi9VL9y0VNFiEUgjITj/ylRSb1IT6u30eNTwbW/Yggg==",
   "success": true,
-  "projectFilePath": "C:\\Workspace\\src\\GitHub\\AlgorithmCodePractice\\FisherYatesShuffleAssignment\\FisherYatesShuffleAssignment\\FisherYatesShuffleAssignment.csproj",
+  "projectFilePath": "C:\\Workspace\\src\\GitHub\\AICodePractice\\AICodeSprint\\FisherYatesShuffle\\FisherYatesShuffleAssignment\\FisherYatesShuffleAssignment\\FisherYatesShuffleAssignment.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
