@@ -14,15 +14,14 @@ to compare the new moved elements until it is all sorted. this takes time
 3.
 
 
-   //
-    Bubblesort(Data: values[])
-        // Repeat until the array is sorted.
-        Boolean: not_sorted = True
-        While (not_sorted)
-            // Assume we won't find a pair to swap.
+      Bubblesort(Data: values[])
+         //Repeat until the array is sorted.
+         Boolean: not_sorted = True
+         While (not_sorted)
+         // Assume we won't find a pair to swap.
             not_sorted = False
             // Search the array for adjacent items that are out of order.
-         For i = 0 To <length of values> - 1
+            For i = 0 To <length of values> - 1
 
             // See if items i and i - 1 are out of order.
     
