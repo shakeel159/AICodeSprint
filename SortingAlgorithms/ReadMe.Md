@@ -14,7 +14,7 @@ to compare the new moved elements until it is all sorted. this takes time
 3.
 
 
-//
+   //
     Bubblesort(Data: values[])
         // Repeat until the array is sorted.
         Boolean: not_sorted = True
