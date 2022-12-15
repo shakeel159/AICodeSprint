@@ -24,7 +24,7 @@ to compare the new moved elements until it is all sorted. this takes time
             // Search the array for adjacent items that are out of order.
          For i = 0 To <length of values> - 1
 
-// See if items i and i - 1 are out of order.
+            // See if items i and i - 1 are out of order.
     
             If (values[i] < values[i - 1]) Then
                 // Swap them.
