@@ -53,6 +53,8 @@ where i moves to the next element to compare.
 2.  best case is O(n), 
 and worst case is O(n2)
 3.
+
+
     InsertionSort(data[] values)
         while(i = 1, i > length of values, i++)
             j = i;
@@ -73,11 +75,15 @@ swappping the smallest number j finds with i; unlike previous
 sorting algorthims selection sorts goes through each element 
 of array before soing any swaps.
 2.  O(n2) average and worst case
-3.  for i = 0 To < leangth of array -1
-        for j = i+1 j < i
-            //swap positions
-        next i
-    End Selection
+3.
+
+      for i = 0 To < leangth of array -1
+      for j = i+1 j < i
+      //swap positions
+      next i
+      End Selection
+
+
 4.
 
 ## HeapSort
@@ -91,6 +97,8 @@ of the leaf elements(children). it does this until no more
 elements left in the heap and array to sort.
 2.  O(n log n) run time.
 3.
+
+
       HeapSort(int[] array, int n)
       for(i = n/2 -1 to i >= 0)
         //call make heap
