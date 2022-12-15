@@ -121,10 +121,4 @@ elements left in the heap and array to sort.
             //swap
             call Make heap
         end
--List the algorithm name
--Describe the algorithm
--Show asymptotic notation (best and worse case)
--Show the algorithm as pseudocode
--Sort the data set using the specific algorithm 
-and display how long it took to complete 
-(C# Timer Class Links to an external site.)
+
