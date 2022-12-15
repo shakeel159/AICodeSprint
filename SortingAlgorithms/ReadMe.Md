@@ -12,7 +12,7 @@ and once the algorithm has gone through comparing each one it will statr from be
 to compare the new moved elements until it is all sorted. this takes time
 2.  Avarge/Worst/Best Case = O(n^2)
 3.
-
+//
 Bubblesort(Data: values[])
     // Repeat until the array is sorted.
     Boolean: not_sorted = True
@@ -23,6 +23,7 @@ Bubblesort(Data: values[])
         For i = 0 To <length of values> - 1
 
 // See if items i and i - 1 are out of order.
+    
             If (values[i] < values[i - 1]) Then
                 // Swap them.
                 Data: temp = values[i]
