@@ -41,7 +41,7 @@ End Bubblesort
 - Stephens, Rod. Essential Algorithms (pp. 171-173). Wiley. 
 
 
-##Insertion Sort
+## Insertion Sort
 
 1.  Insertion Sort Alorithm takes in array of data in wich
 we set i to second element of our array. this is so we can
@@ -64,7 +64,7 @@ and worst case is O(n2)
 4.
 
 
-##SelectionSort
+## SelectionSort
 
 1.  Selection Algorithm takes in leangth of array
 and sets position of i = 0 and j to i +1;
@@ -80,7 +80,7 @@ of array before soing any swaps.
     End Selection
 4.
 
-##HeapSort
+## HeapSort
 
 1.  Sorting Algorithm uses heap data structire or 
 a specialixed tree-based data structure(binary tree where 
@@ -90,15 +90,16 @@ is the root element of the heap and replaceses with the one
 of the leaf elements(children). it does this until no more
 elements left in the heap and array to sort.
 2.  O(n log n) run time.
-3.HeapSort(int[] array, int n)
-    for(i = n/2 -1 to i >= 0)
+3.
+      HeapSort(int[] array, int n)
+      for(i = n/2 -1 to i >= 0)
         //call make heap
-    i--
-    for(i = n-2 to i >=0)
-        int temp = arr[0];
-        arr[i] = temp;
-        //call make heap
-    end
+      i--
+      for(i = n-2 to i >=0)
+            int temp = arr[0];
+            arr[i] = temp;
+            //call make heap
+      end
 
     MakeHeap(int[] array, int n, int i)
         Integer largest = i;
