@@ -1,0 +1,15 @@
+C:\Workspace\src\GitHub\AICodePractice\AICodeSprint\SortingAlgorithms\SortingAlgorithms\bin\Debug\net6.0\SortingAlgorithms.exe
+C:\Workspace\src\GitHub\AICodePractice\AICodeSprint\SortingAlgorithms\SortingAlgorithms\bin\Debug\net6.0\SortingAlgorithms.deps.json
+C:\Workspace\src\GitHub\AICodePractice\AICodeSprint\SortingAlgorithms\SortingAlgorithms\bin\Debug\net6.0\SortingAlgorithms.runtimeconfig.json
+C:\Workspace\src\GitHub\AICodePractice\AICodeSprint\SortingAlgorithms\SortingAlgorithms\bin\Debug\net6.0\SortingAlgorithms.dll
+C:\Workspace\src\GitHub\AICodePractice\AICodeSprint\SortingAlgorithms\SortingAlgorithms\bin\Debug\net6.0\SortingAlgorithms.pdb
+C:\Workspace\src\GitHub\AICodePractice\AICodeSprint\SortingAlgorithms\SortingAlgorithms\obj\Debug\net6.0\SortingAlgorithms.csproj.AssemblyReference.cache
+C:\Workspace\src\GitHub\AICodePractice\AICodeSprint\SortingAlgorithms\SortingAlgorithms\obj\Debug\net6.0\SortingAlgorithms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Workspace\src\GitHub\AICodePractice\AICodeSprint\SortingAlgorithms\SortingAlgorithms\obj\Debug\net6.0\SortingAlgorithms.AssemblyInfoInputs.cache
+C:\Workspace\src\GitHub\AICodePractice\AICodeSprint\SortingAlgorithms\SortingAlgorithms\obj\Debug\net6.0\SortingAlgorithms.AssemblyInfo.cs
+C:\Workspace\src\GitHub\AICodePractice\AICodeSprint\SortingAlgorithms\SortingAlgorithms\obj\Debug\net6.0\SortingAlgorithms.csproj.CoreCompileInputs.cache
+C:\Workspace\src\GitHub\AICodePractice\AICodeSprint\SortingAlgorithms\SortingAlgorithms\obj\Debug\net6.0\SortingAlgorithms.dll
+C:\Workspace\src\GitHub\AICodePractice\AICodeSprint\SortingAlgorithms\SortingAlgorithms\obj\Debug\net6.0\refint\SortingAlgorithms.dll
+C:\Workspace\src\GitHub\AICodePractice\AICodeSprint\SortingAlgorithms\SortingAlgorithms\obj\Debug\net6.0\SortingAlgorithms.pdb
+C:\Workspace\src\GitHub\AICodePractice\AICodeSprint\SortingAlgorithms\SortingAlgorithms\obj\Debug\net6.0\SortingAlgorithms.genruntimeconfig.cache
+C:\Workspace\src\GitHub\AICodePractice\AICodeSprint\SortingAlgorithms\SortingAlgorithms\obj\Debug\net6.0\ref\SortingAlgorithms.dll
