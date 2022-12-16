@@ -11,7 +11,7 @@ namespace SortingAlgorithms
         static void Main(string[] args)
         {
             string FilePath = @"C:\Workspace\src\GitHub\AICodePractice\AICodeSprint\Data.txt";
-            int[] numbers = { 32, 2, 29, 1, 8, 14 };
+            int[] numbers = { 32, 2, 29, 1, 8, 14 , 6};
 
             BubbleSort(numbers);
             Console.WriteLine(string.Join(",", numbers));
@@ -26,6 +26,9 @@ namespace SortingAlgorithms
             Console.WriteLine((string.Join(",", numbers)));
             Console.WriteLine("========================");
             QuickSort(numbers,0,numbers.Length);
+            Console.WriteLine((string.Join(",", numbers)));
+            Console.WriteLine("========================");
+            MergeSort(numbers, numbers, 0, numbers.Length -1);
             Console.WriteLine((string.Join(",", numbers)));
             Console.WriteLine("========================");
             Console.ReadLine();
@@ -147,6 +150,55 @@ namespace SortingAlgorithms
                 pivot = arry[leftSide];
             }
             return leftSide;
+        }
+
+        public static void MergeSort(int[] values, int[] scratch, int start, int end)
+        {
+            if(start == end)
+            {
+                return;
+            }
+            //divide array in two
+            int midPoint = (start + end) / 2;
+
+            //call mergeshort and start sorting the two halves
+            MergeSort(values,scratch, start, midPoint);
+            MergeSort(values, scratch, midPoint + 1, end);
+
+            //merge two sorted havles
+            int leftSide = start;
+            int rightSide = midPoint + 1;
+            int scratchIndex = leftSide;
+
+            while ((leftSide <= midPoint) && rightSide <= end)
+            {
+                if (values[leftSide] <= values[rightSide])
+                {
+                    scratch[scratchIndex] = values[leftSide];
+                    leftSide = rightSide+1;
+                }
+                else
+                {
+                    scratch[scratchIndex] = values[rightSide];
+                    rightSide = rightSide + 1;
+                }
+                scratchIndex = scratchIndex + 1;
+            }
+
+            for (int i = leftSide; i < midPoint; i++)
+            {
+                scratch[scratchIndex] = values[i];
+                scratchIndex = scratchIndex + 1;
+            }
+            for (int i = rightSide; i < end; i++)
+            {
+                scratch[scratchIndex]= values[i];
+                scratchIndex = scratchIndex + 1;
+            }
+            for (int i = start; i < end; i++)
+            {
+                values[i] = scratch[i];
+            }
         }
     }
 }
