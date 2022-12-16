@@ -125,11 +125,12 @@ algorithm quicksort(A, lo, hi) is
     if lo < hi then
         p := pivot(A, lo, hi)
         left, right := partition(A, p, lo, hi)  // note: multiple return values
-        quicksort(A, lo, left - 1)
-        quicksort(A, right + 1, hi)
+  quicksort(A, lo, left - 1)
+  quicksort(A, right + 1, hi)
         
         
   ## Merge Sort
+  
   1.  merge sort also uses conquer and divide strategy like Quicksort but instead
   of dividing based on higher and lower values it splits the array equaly in half
   the way it is and calls itself to sort the two halfes. 
@@ -169,12 +170,12 @@ If (start == end) Then Return
     Next i
     For i = right_index To end
 
-scratch[scratch_index] = values[i]
-        scratch_index = scratch_index + 1
-    Next i
-    // Copy the values back into the original values array.
-    For i = start To end
-        values[i] = scratch[i]
-    Next i
-End Mergesort
+      scratch[scratch_index] = values[i]
+            scratch_index = scratch_index + 1
+      Next i
+      // Copy the values back into the original values array.
+      For i = start To end
+            values[i] = scratch[i]
+      Next i
+      End Mergesort
   
