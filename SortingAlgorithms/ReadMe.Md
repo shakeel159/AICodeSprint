@@ -108,3 +108,73 @@ elements left in the heap and array to sort.
             arr[i] = temp;
             //call make heap
       end
+
+
+
+## QuickSort
+
+1. Quick Sort divides the array in two by going through the array and seprating the larger
+value numbers from the lower values. that center point is called pivot. once the array is
+divided in two it can pick on side and focus on sorting a smaller amount before moving to
+the other half.
+2.  avarage:O(n log n), worst case O(n2).
+3.
+
+
+algorithm quicksort(A, lo, hi) is
+    if lo < hi then
+        p := pivot(A, lo, hi)
+        left, right := partition(A, p, lo, hi)  // note: multiple return values
+        quicksort(A, lo, left - 1)
+        quicksort(A, right + 1, hi)
+        
+        
+  ## Merge Sort
+  1.  merge sort also uses conquer and divide strategy like Quicksort but instead
+  of dividing based on higher and lower values it splits the array equaly in half
+  the way it is and calls itself to sort the two halfes. 
+  2. avarage and worst case O(n log n).
+  3.
+  
+  Mergesort(Data: values[], Data: scratch[], Integer: start, Integer: end)
+    // If the array contains only one item, it is already sorted.
+
+If (start == end) Then Return
+ 
+    // Break the array into left and right halves.
+    Integer: midpoint = (start + end) / 2
+ 
+    // Call Mergesort to sort the two halves.
+    Mergesort(values, scratch, start, midpoint)
+    Mergesort(values, scratch, midpoint + 1, end)
+ 
+    // Merge the two sorted halves.
+    Integer: left_index = start
+    Integer: right_index = midpoint + 1
+    Integer: scratch_index = left_index
+    While ((left_index <= midpoint) And (right_index <= end))
+        If (values[left_index] <= values[right_index]) Then
+            scratch[scratch_index] = values[left_index]
+            left_index = left_index + 1
+        Else
+            scratch[scratch_index] = values[right_index]
+            right_index = right_index + 1
+        End If
+        scratch_index = scratch_index + 1    End While
+ 
+    // Finish copying whichever half is not empty.
+    For i = left_index To midpoint
+        scratch[scratch_index] = values[i]
+        scratch_index = scratch_index + 1
+    Next i
+    For i = right_index To end
+
+scratch[scratch_index] = values[i]
+        scratch_index = scratch_index + 1
+    Next i
+    // Copy the values back into the original values array.
+    For i = start To end
+        values[i] = scratch[i]
+    Next i
+End Mergesort
+  
