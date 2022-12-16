@@ -121,12 +121,12 @@ the other half.
 3.
 
 
-algorithm quicksort(A, lo, hi) is
-    if lo < hi then
-        p := pivot(A, lo, hi)
-        left, right := partition(A, p, lo, hi)  // note: multiple return values
-  quicksort(A, lo, left - 1)
-  quicksort(A, right + 1, hi)
+      algorithm quicksort(A, lo, hi) is
+      if lo < hi then
+      p := pivot(A, lo, hi)
+      left, right := partition(A, p, lo, hi)  // note: multiple return values
+      quicksort(A, lo, left - 1)
+      quicksort(A, right + 1, hi)
         
         
   ## Merge Sort
