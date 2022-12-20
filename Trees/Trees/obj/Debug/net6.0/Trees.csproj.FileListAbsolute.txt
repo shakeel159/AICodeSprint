@@ -1,0 +1,15 @@
+C:\Workspace\src\GitHub\AICodePractice\AICodeSprint\Trees\Trees\bin\Debug\net6.0\Trees.exe
+C:\Workspace\src\GitHub\AICodePractice\AICodeSprint\Trees\Trees\bin\Debug\net6.0\Trees.deps.json
+C:\Workspace\src\GitHub\AICodePractice\AICodeSprint\Trees\Trees\bin\Debug\net6.0\Trees.runtimeconfig.json
+C:\Workspace\src\GitHub\AICodePractice\AICodeSprint\Trees\Trees\bin\Debug\net6.0\Trees.dll
+C:\Workspace\src\GitHub\AICodePractice\AICodeSprint\Trees\Trees\bin\Debug\net6.0\Trees.pdb
+C:\Workspace\src\GitHub\AICodePractice\AICodeSprint\Trees\Trees\obj\Debug\net6.0\Trees.csproj.AssemblyReference.cache
+C:\Workspace\src\GitHub\AICodePractice\AICodeSprint\Trees\Trees\obj\Debug\net6.0\Trees.GeneratedMSBuildEditorConfig.editorconfig
+C:\Workspace\src\GitHub\AICodePractice\AICodeSprint\Trees\Trees\obj\Debug\net6.0\Trees.AssemblyInfoInputs.cache
+C:\Workspace\src\GitHub\AICodePractice\AICodeSprint\Trees\Trees\obj\Debug\net6.0\Trees.AssemblyInfo.cs
+C:\Workspace\src\GitHub\AICodePractice\AICodeSprint\Trees\Trees\obj\Debug\net6.0\Trees.csproj.CoreCompileInputs.cache
+C:\Workspace\src\GitHub\AICodePractice\AICodeSprint\Trees\Trees\obj\Debug\net6.0\Trees.dll
+C:\Workspace\src\GitHub\AICodePractice\AICodeSprint\Trees\Trees\obj\Debug\net6.0\refint\Trees.dll
+C:\Workspace\src\GitHub\AICodePractice\AICodeSprint\Trees\Trees\obj\Debug\net6.0\Trees.pdb
+C:\Workspace\src\GitHub\AICodePractice\AICodeSprint\Trees\Trees\obj\Debug\net6.0\Trees.genruntimeconfig.cache
+C:\Workspace\src\GitHub\AICodePractice\AICodeSprint\Trees\Trees\obj\Debug\net6.0\ref\Trees.dll
